@@ -1,1 +1,2 @@
 include qbstyles/styles/*
+include qbstyles/*.mplstyle
