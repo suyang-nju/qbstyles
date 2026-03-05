@@ -27,3 +27,4 @@ def mpl_style(dark: bool = True, minor_ticks: bool = True) -> None:
     mpl.rcParams.update(rc_updates)
 
 __all__ = ["mpl_style"]
+__version__ = "0.1.4"
